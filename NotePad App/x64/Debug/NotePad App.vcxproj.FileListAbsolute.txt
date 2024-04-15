@@ -1,0 +1,3 @@
+D:\Visual Studio\Project 1\NotePad App\NotePad App\x64\Debug\NotePad App.vcxproj.AssemblyReference.cache
+D:\Visual Studio\Project 1\NotePad App\NotePad App\x64\Debug\NotePadApp.MyForm.resources
+D:\Visual Studio\Project 1\NotePad App\NotePad App\x64\Debug\NotePad App.vcxproj.GenerateResource.cache
